@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi 👋, I'm Shantanu Udasi<br>Flutter Developer | Mobile App Specialist | Technical Trainer | Web Developer<br>
+Hi 👋, I'm Shantanu Udasi<br>
+
+🚀 I'm a passionate Flutter Developer with 3+ years of hands-on experience building Android and iOS apps with beautiful UI and smooth functionality.  
+👨‍🏫 As a Technical Trainer I’ve trained over **300+ students** in C++, Java, Web Development, and Database concepts.  
+🧠 I enjoy solving real-world problems through clean architecture, Firebase integration, and state management using Provider and Riverpod.  
+📱 I’ve deployed production-grade apps to the Play Store and contributed to internal tools at Amazon and startups.  
 
 
 ## 🌐 Socials:
@@ -17,15 +22,6 @@ Hi 👋, I'm Shantanu Udasi<br>Flutter Developer | Mobile App Specialist | Techn
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shantz1&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-## ✨ About Me (More)
-
-🚀 I'm a passionate Flutter Developer with 3+ years of hands-on experience building Android and iOS apps with beautiful UI and smooth functionality.  
-👨‍🏫 As a Technical Trainer at Hindavi SoftTech, I’ve trained over **300+ students** in C++, Java, Web Development, and Database concepts.  
-🧠 I enjoy solving real-world problems through clean architecture, Firebase integration, and state management using Provider and Riverpod.  
-📱 I’ve deployed production-grade apps to the Play Store and contributed to internal tools at Amazon and startups.  
 
 ---
 
@@ -53,5 +49,5 @@ Hi 👋, I'm Shantanu Udasi<br>Flutter Developer | Mobile App Specialist | Techn
 
 📧 **Email:** [udasishantanu@gmail.com](mailto:udasishantanu@gmail.com)  
 🔗 **LinkedIn:** [Shantanu Udasi](https://www.linkedin.com/in/shantanu-udasi)  
-📍 **Based in:** Jalna / Pune, India  
+📍 **Based in:** Pune - MH, India  
 
